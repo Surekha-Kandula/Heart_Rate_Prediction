@@ -1,1 +1,1 @@
-# Heart_Rate_Prediction
+In this project, I have done analysis to predict the heart failure rate based on the patient’s data which contains patients’ cholesterol levels, age, sex, gender and some other crucial fields using Random Forest Algorithm in PySpark. A detailed document has attached in the repository for reference.
